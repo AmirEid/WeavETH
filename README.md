@@ -5,15 +5,15 @@ A mobile-first social Web3 app where meaningful human connections are represente
 ## Interface Preview
 
 <p align="center">
-	<img src="assets/home.png" alt="Home Screen" width="180" />
-	<img src="assets/connect_wallet.png" alt="Connect Wallet" width="180" />
-	<img src="assets/connect_prompt.png" alt="Connect Prompt" width="180" />
+	<img src="assets/home.jpg" alt="Home Screen" width="180" />
+	<img src="assets/connect_wallet.jpg" alt="Connect Wallet" width="180" />
+	<img src="assets/connect_prompt.jpg" alt="Connect Prompt" width="180" />
 </p>
 
 <p align="center">
 	<img src="assets/wallet_connected.jpg" alt="Wallet Connected" width="180" />
-	<img src="assets/Scarfs_gallery.png" alt="Scarf Gallery" width="180" />
-	<img src="assets/Share_scarf.png" alt="Share Scarf" width="180" />
+	<img src="assets/Scarfs_gallery.jpg" alt="Scarf Gallery" width="180" />
+	<img src="assets/Share_scarf.jpg" alt="Share Scarf" width="180" />
 </p>
 
 ## Project Background
